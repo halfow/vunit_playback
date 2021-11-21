@@ -1,0 +1,8 @@
+env
+.mypy_cache
+__pycache__
+vunit_out
+
+# Generated when vunit runs. Abs paths, user specific...
+.hdl_checker.config
+vhdl_ls.toml
